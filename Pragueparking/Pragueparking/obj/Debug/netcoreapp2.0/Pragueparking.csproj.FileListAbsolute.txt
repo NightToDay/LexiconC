@@ -1,0 +1,11 @@
+C:\Test Project\Console App\Pragueparking\Pragueparking\bin\Debug\netcoreapp2.0\Pragueparking.deps.json
+C:\Test Project\Console App\Pragueparking\Pragueparking\bin\Debug\netcoreapp2.0\Pragueparking.runtimeconfig.json
+C:\Test Project\Console App\Pragueparking\Pragueparking\bin\Debug\netcoreapp2.0\Pragueparking.runtimeconfig.dev.json
+C:\Test Project\Console App\Pragueparking\Pragueparking\bin\Debug\netcoreapp2.0\Pragueparking.dll
+C:\Test Project\Console App\Pragueparking\Pragueparking\bin\Debug\netcoreapp2.0\Pragueparking.pdb
+C:\Test Project\Console App\Pragueparking\Pragueparking\obj\Debug\netcoreapp2.0\Pragueparking.csprojResolveAssemblyReference.cache
+C:\Test Project\Console App\Pragueparking\Pragueparking\obj\Debug\netcoreapp2.0\Pragueparking.csproj.CoreCompileInputs.cache
+C:\Test Project\Console App\Pragueparking\Pragueparking\obj\Debug\netcoreapp2.0\Pragueparking.AssemblyInfoInputs.cache
+C:\Test Project\Console App\Pragueparking\Pragueparking\obj\Debug\netcoreapp2.0\Pragueparking.AssemblyInfo.cs
+C:\Test Project\Console App\Pragueparking\Pragueparking\obj\Debug\netcoreapp2.0\Pragueparking.dll
+C:\Test Project\Console App\Pragueparking\Pragueparking\obj\Debug\netcoreapp2.0\Pragueparking.pdb
