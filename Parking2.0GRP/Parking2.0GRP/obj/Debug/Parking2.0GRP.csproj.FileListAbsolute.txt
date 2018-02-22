@@ -1,0 +1,7 @@
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\obj\Debug\Parking2.0GRP.csprojResolveAssemblyReference.cache
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\obj\Debug\Parking2.0GRP.csproj.CoreCompileInputs.cache
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\bin\Debug\Parking2.0GRP.exe.config
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\bin\Debug\Parking2.0GRP.exe
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\bin\Debug\Parking2.0GRP.pdb
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\obj\Debug\Parking2.0GRP.exe
+C:\Users\Elev1\Documents\Visual Studio 2017\Projects\Parking2.0GRP\Parking2.0GRP\obj\Debug\Parking2.0GRP.pdb

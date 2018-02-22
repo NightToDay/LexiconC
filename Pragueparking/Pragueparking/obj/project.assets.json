@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elev1\\Documents\\Visual Studio 2017\\Projects\\Pragueparking\\Pragueparking\\Pragueparking\\Pragueparking.csproj",
+      "projectUniqueName": "C:\\Users\\Elev1\\Source\\Repos\\LexiconC\\Pragueparking\\Pragueparking\\Pragueparking.csproj",
       "projectName": "Pragueparking",
-      "projectPath": "C:\\Users\\Elev1\\Documents\\Visual Studio 2017\\Projects\\Pragueparking\\Pragueparking\\Pragueparking\\Pragueparking.csproj",
+      "projectPath": "C:\\Users\\Elev1\\Source\\Repos\\LexiconC\\Pragueparking\\Pragueparking\\Pragueparking.csproj",
       "packagesPath": "C:\\Users\\Elev1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elev1\\Documents\\Visual Studio 2017\\Projects\\Pragueparking\\Pragueparking\\Pragueparking\\obj\\",
+      "outputPath": "C:\\Users\\Elev1\\Source\\Repos\\LexiconC\\Pragueparking\\Pragueparking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
